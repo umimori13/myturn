@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cards
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b33becd501f5cc54d8694414598bd5ee, type: 3}
+    - {fileID: 2800000, guid: 90af0317800d9d345a389b33088a69d6, type: 3}
+    - {fileID: 21300000, guid: 9543e9f2a28112d4d9066f3c7560e26d, type: 3}
+    - {fileID: 2800000, guid: 1b2ce7f6632ddff49ad77e0d832196d7, type: 3}
+    - {fileID: 21300000, guid: 5f3345d26949dc64e9a5a49547fbd723, type: 3}
+    - {fileID: 21300000, guid: afada490d22a1ed46bb89216ad4b0aaf, type: 3}
+    - {fileID: 21300000, guid: d79e908932ee32d4aa345239c76c1a34, type: 3}
+    totalSpriteSurfaceArea: 6924750
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: afada490d22a1ed46bb89216ad4b0aaf, type: 3}
+  - {fileID: 21300000, guid: 5f3345d26949dc64e9a5a49547fbd723, type: 3}
+  - {fileID: 21300000, guid: 9543e9f2a28112d4d9066f3c7560e26d, type: 3}
+  - {fileID: 21300000, guid: b33becd501f5cc54d8694414598bd5ee, type: 3}
+  - {fileID: 21300000, guid: 1b2ce7f6632ddff49ad77e0d832196d7, type: 3}
+  - {fileID: 21300000, guid: 90af0317800d9d345a389b33088a69d6, type: 3}
+  - {fileID: 21300000, guid: d79e908932ee32d4aa345239c76c1a34, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u6C34\u6D41\u795E"
+  - "\u653E\u6D6A\u795E"
+  - "\u5EFA\u7B51\u795E"
+  - "\u5361\u80CC"
+  - "\u6218\u4E89\u795E"
+  - "\u592A\u9633\u795E"
+  - "\u795E\u5723\u6811"
+  m_Tag: cards
+  m_IsVariant: 0
